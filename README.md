@@ -98,8 +98,7 @@ Running `main.py` produces:
 
 ## Citation
 
-If you use this code in your research, please cite the corresponding
-paper (to be added upon publication).
+
 
 ## License
 
