@@ -105,7 +105,7 @@ CMIP6 Earth System Models including:
 * ACCESS-ESM1-5
 * CanESM5
 * CNRM-ESM2-1
-* IPSL-CM6A-LR
+* MPI-ESM-1-2-HAM
 * MPI-ESM1-2-HR
 * MPI-ESM1-2-LR
 
@@ -263,7 +263,7 @@ See LICENSE for details.
 
 Binbin Huang
 
-Email: [your email]
+Email: huangbinbin@zju.edu.cn
 
 GitHub:
 https://github.com/OUCHuangBinbin
